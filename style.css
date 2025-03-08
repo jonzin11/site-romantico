@@ -1,0 +1,39 @@
+style.cssbody {
+    background: #ffdde1;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
+
+h1 {
+    color: #e91e63;
+}
+
+button {
+    background: #e91e63;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background: #c2185b;
+}
+
+.mensagem {
+    display: none;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+}
